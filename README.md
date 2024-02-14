@@ -1,4 +1,4 @@
-# STM32F401CCU6 Arduino demo
+# STM32F401CCU6 FT2232H OpenOCD/PlatformIO demo
 
 This is an example PlatformIO project for a WeAct Studio Black Pill
 STM32F401CCU6 board:
